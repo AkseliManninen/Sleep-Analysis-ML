@@ -2,7 +2,9 @@
 
 # Project description
 
-The project studies how sleep duration and quality change day-by-day, and how behavior during the previous day affects sleep. The sleep-related factors such as caffeine consumption, activity or stress could have a big impact on sleep. The objective of this project is to find patterns in sleep quality by examining relationshops between sleep and other factors.
+Sleep is affected by numerous factors, many of which are decisions and actions made during the preceding day. Some of the common perceptions are that drinking coffee or exercising before going to bed is detrimental to sleep. Researching this kinds of relationships have been an interest of many studies. For instance, Drake et al. (2013) studied the effects of caffeine taken 0, 3 or 6 hours before sleep, Atkinson & Davenne (2007) studied the relationship between sleep and physical activity and Thomsen et al. (2003) studied if the negative mood and sleep quality are associated. Inspired by the existing literature, in this project, the pre-detected relationships are utilized to find patterns in sleep and predict sleep quality from data collected by one test subject. The subject used a smartphone application to track sleep-related information about himself.
+
+Multiple methods were used for data mining and predicting. Explorative data analysis and visualizations are used to detect patterns and machine learning models are used to predict sleep quality. In the existing studies, machine learning has been successfully used to measure sleep quality from data collected from sensor data during sleep for example by Ravan (2019). However, the good results are not limited only to data collected while asleep as Arora et al. (2016) found out that deep learning can predict sleep quality from awake data collected from a wearable. These studies show that machine learning can be effective in predicting sleep quality.
 
 # Description of the dataset
 
